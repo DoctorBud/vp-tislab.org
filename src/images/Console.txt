@@ -1,0 +1,3 @@
+[Log] P5Loader – e (smartdown.js, line 30005)
+e
+[Log] in createCanvasWrapper – 710 – 400 – undefined
