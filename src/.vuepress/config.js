@@ -1,6 +1,7 @@
 // https://github.com/vuejs/vuepress/blob/master/packages/docs/docs/theme/default-theme-config.md
 
 module.exports = {
+  base: '/vp-tislab.org/',
   plugins: [
     'vuepress-plugin-nprogress',
     require('./theme/plugins/blog'),
